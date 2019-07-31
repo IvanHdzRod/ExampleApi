@@ -12734,11 +12734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e-arcortez\\Desktop\\ExampleAPI\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
+      "projectUniqueName": "C:\\Users\\e-arcortez\\Documents\\ExampleApi\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
       "projectName": "ExampleApi",
-      "projectPath": "C:\\Users\\e-arcortez\\Desktop\\ExampleAPI\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
+      "projectPath": "C:\\Users\\e-arcortez\\Documents\\ExampleApi\\ExampleApi\\ExampleApi\\ExampleApi.csproj",
       "packagesPath": "C:\\Users\\e-arcortez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e-arcortez\\Desktop\\ExampleAPI\\ExampleApi\\ExampleApi\\obj\\",
+      "outputPath": "C:\\Users\\e-arcortez\\Documents\\ExampleApi\\ExampleApi\\ExampleApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
