@@ -1,0 +1,14 @@
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\bin\Debug\netcoreapp2.1\ExampleApi.deps.json
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\bin\Debug\netcoreapp2.1\ExampleApi.runtimeconfig.json
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\bin\Debug\netcoreapp2.1\ExampleApi.runtimeconfig.dev.json
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\bin\Debug\netcoreapp2.1\ExampleApi.dll
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\bin\Debug\netcoreapp2.1\ExampleApi.pdb
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.csprojAssemblyReference.cache
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.csproj.CoreCompileInputs.cache
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.RazorAssemblyInfo.cache
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.RazorAssemblyInfo.cs
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.AssemblyInfoInputs.cache
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.AssemblyInfo.cs
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.RazorTargetAssemblyInfo.cache
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.dll
+C:\Users\e-arcortez\Desktop\ExampleAPI\ExampleApi\ExampleApi\obj\Debug\netcoreapp2.1\ExampleApi.pdb
